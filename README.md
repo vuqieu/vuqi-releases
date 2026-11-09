@@ -13,7 +13,7 @@ vuQi. macht Bildschirminhalte und Ideen sichtbar. Zeige direkt, was du meinst �
 - **Schnell aufnehmen:** einen Monitor, einzelne und mehrere frei gewählte Bildschirmbereiche oder ganze Anwendungsfenster erfassen.
 - **vucut:** Screenshots zuschneiden, markieren, beschriften und schwärzen.
 - **papervu:** eigene Skizzen und visuelle Erklärungen auf einer Zeichenfläche erstellen.
-- **snapvu:** Aufnahmen sammeln, per Rechtsklick verwalten, mit Enter oder optional Strg+C kombiniert kopieren, groß ansehen und in vucut weiterbearbeiten.
+- **snapvu:** Aufnahmen sammeln, per Rechtsklick verwalten, ohne gehaltene Strg-Taste auswählen, mit Enter oder Strg+C kombiniert kopieren, groß ansehen und in vucut weiterbearbeiten.
 - **Einfach weitergeben:** Bilder über die Zwischenablage in passende Anwendungen einfügen oder lokal speichern.
 
 Deutsch und Englisch sowie helle, dunkle und automatische Darstellung sind enthalten. Die Anwendung ist kostenlos für private und berufliche Nutzung.
