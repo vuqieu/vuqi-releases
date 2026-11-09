@@ -10,10 +10,10 @@ vuQi. macht Bildschirminhalte und Ideen sichtbar. Zeige direkt, was du meinst �
 
 ## Gemeinsam wird aus Aufnahmen eine Erklärung
 
-- **Schnell aufnehmen:** einen Monitor oder einzelne und mehrere frei gewählte Bildschirmbereiche erfassen.
+- **Schnell aufnehmen:** einen Monitor, einzelne und mehrere frei gewählte Bildschirmbereiche oder ganze Anwendungsfenster erfassen.
 - **vucut:** Screenshots zuschneiden, markieren, beschriften und schwärzen.
 - **papervu:** eigene Skizzen und visuelle Erklärungen auf einer Zeichenfläche erstellen.
-- **snapvu:** Aufnahmen sammeln, auswählen, kombinieren und in vucut weiterbearbeiten.
+- **snapvu:** Aufnahmen sammeln, per Rechtsklick verwalten, mit Enter oder optional Strg+C kombiniert kopieren, groß ansehen und in vucut weiterbearbeiten.
 - **Einfach weitergeben:** Bilder über die Zwischenablage in passende Anwendungen einfügen oder lokal speichern.
 
 Deutsch und Englisch sowie helle, dunkle und automatische Darstellung sind enthalten. Die Anwendung ist kostenlos für private und berufliche Nutzung.
@@ -26,22 +26,22 @@ Windows 11 auf einem **x64-PC (Intel/AMD)** und Administratorrechte. Die benöti
 2. Den Installer starten und Sprache, Installationsordner, Verknüpfungen und optionalen Autostart auswählen.
 3. Installieren und vuQi. starten. Beim ersten Start öffnen sich die Einstellungen; danach ist vuQi. über das Symbol im Infobereich der Taskleiste erreichbar.
 
-Der Installer ist derzeit **nicht digital signiert**. Prüfe die Downloadquelle und beachte die Sicherheitsmeldungen von Windows. Die passende SHA-256-Datei und Hinweise zu mitgelieferten Drittanbieterbestandteilen liegen beim Release.
+Der Installer ist derzeit **nicht digital signiert**. Prüfe die Downloadquelle und beachte die Sicherheitsmeldungen von Windows. Eine SmartScreen-Warnung oder ein Hinweis auf einen unbekannten Herausgeber ist möglich. Die passende SHA-256-Datei prüft die Dateiintegrität, bestätigt aber keine Herausgeberidentität. Hinweise zu mitgelieferten Drittanbieterbestandteilen liegen beim Release.
 
 ## Updates und Datenschutz
 
 vuQi. verarbeitet Screenshots und Skizzen lokal. Es gibt keine Telemetrie und keinen automatischen Upload von Bildinhalten an KI-Dienste. Du entscheidest selbst, welche Bilder du teilst. Andere Anwendungen sowie eine von dir aktivierte Zwischenablage- oder Ordnersynchronisierung können eigene Datenübertragungen auslösen.
 
-Bei aktivierter automatischer Updateprüfung verbindet sich vuQi. beim Start höchstens einmal in 24 Stunden mit diesem öffentlichen GitHub-Repository. Die Prüfung lässt sich in den Einstellungen ausschalten und jederzeit manuell ausführen. GitHub erhält dabei technische Verbindungsdaten wie die IP-Adresse, aber keine Screenshots oder persönlichen Einstellungen von vuQi. Downloads und Installation erfolgen nur auf deinen Wunsch. Es werden ausschließlich tatsächlich neuere stabile Versionen angeboten; 1.0.0 wird nicht als Update für 1.0.0 angeboten.
+Bei aktivierter automatischer Updateprüfung verbindet sich vuQi. beim Start höchstens einmal in 24 Stunden mit diesem öffentlichen GitHub-Repository. Die Prüfung lässt sich in den Einstellungen ausschalten und jederzeit manuell ausführen. GitHub erhält dabei technische Verbindungsdaten wie die IP-Adresse, aber keine Screenshots oder persönlichen Einstellungen von vuQi. Downloads und Installation erfolgen nur auf deinen Wunsch. Es werden ausschließlich tatsächlich neuere stabile Versionen angeboten. Ab 1.1.0 zeigt vuQi. die Release-Neuerungen vor der Installation und startet nach einem erfolgreichen Update automatisch. Version 1.0.0 verwendet für das erste Update weiterhin ihren bisherigen Ablauf.
 
 ## Die Idee dahinter
 
 Langfristig soll vuQi. zu einem intelligenten Begleiter werden, der **nur mit deiner Zustimmung** Arbeitszusammenhänge und Informationen erkennt, Gedanken und Ideen bündelt und gemeinsam mit KI-Systemen konkrete nächste Schritte unterstützt – als Schnittstelle zwischen Augen, Ohren, Gedanken und künstlicher Intelligenz.
 
-**Das ist eine Zukunftsvision. Diese Fähigkeiten sind noch nicht Bestandteil von vuQi. 1.0.0.**
+**Das ist eine Zukunftsvision. Diese Fähigkeiten sind noch nicht Bestandteil von vuQi.**
 
 ## Kontakt und freiwillige Unterstützung
 
 [Ko-fi: vuqieu](https://ko-fi.com/vuqieu) · [kontakt@vuqi.eu](mailto:kontakt@vuqi.eu)
 
-Herausgeber: Dennis Otto. Die Nutzung ist kostenlos und unabhängig von einer Unterstützung. vuQi. ist proprietäre Software; dieses Repository veröffentlicht Produktinformationen und Downloads, keinen Anwendungsquellcode. Die Nutzungsbedingungen stehen im Installer und in der Anwendung. Für mitgelieferte fremde Bestandteile gelten deren gesonderte Hinweise.
+Herausgeber: Dennis Otto. Die Nutzung ist kostenlos und unabhängig von einer Unterstützung. vuQi. ist proprietäre Software; dieses Repository veröffentlicht Produktinformationen und Downloads, keinen Anwendungsquellcode. Die Nutzungsbedingungen stehen im Installer und in der Anwendung; sie sind nicht anwaltlich geprüft. Für mitgelieferte fremde Bestandteile gelten deren gesonderte Hinweise.
