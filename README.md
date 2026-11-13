@@ -10,7 +10,7 @@ vuQi. macht Bildschirminhalte und Ideen sichtbar. Zeige direkt, was du meinst �
 
 ## Gemeinsam wird aus Aufnahmen eine Erklärung
 
-- **Schnell aufnehmen:** einen Monitor, einzelne und mehrere frei gewählte Bildschirmbereiche oder ganze Anwendungsfenster erfassen.
+- **Schnell aufnehmen:** einen Monitor, einzelne und mehrere frei gewählte Bildschirmbereiche oder ganze Anwendungsfenster erfassen. Optional F1 bis F11 zusätzlich zur Druck-Taste belegen – besonders praktisch auf Laptops.
 - **vucut:** Screenshots zuschneiden, markieren, beschriften und schwärzen.
 - **papervu:** eigene Skizzen und visuelle Erklärungen auf einer Zeichenfläche erstellen.
 - **snapvu:** Aufnahmen sammeln, per Rechtsklick verwalten, ohne gehaltene Strg-Taste auswählen, mit Enter oder Strg+C kombiniert kopieren, groß ansehen und in vucut weiterbearbeiten.
